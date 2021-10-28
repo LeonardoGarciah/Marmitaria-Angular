@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { Package } from './package.model';
+import { Package } from '../package.model';
 
 @Component({
   selector: 'app-package-list',
